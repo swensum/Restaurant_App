@@ -10,8 +10,8 @@ This repository contains two Flutter apps:
 
 | App Name     | Description |
 |--------------|-------------|
-| [`client_app`](./client_app) | 📱 A mobile app for customers to browse menus, place orders, and track delivery. |
-| [`admin_app`](./admin_app) | 🛠️ An admin dashboard for restaurant managers to manage menus, orders, and customers. |
+| [`client_app`](./flutter_application) | 📱 A mobile app for customers to browse menus, place orders, and track delivery. |
+| [`admin_app`](./admin_panel) | 🛠️ An admin dashboard for restaurant managers to manage menus, orders, and customers. |
 
 ---
 
