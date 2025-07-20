@@ -8,10 +8,10 @@ A simple and efficient **Restaurant Admin Application** built using **Flutter**,
 
 The **Restaurant Admin App** allows restaurant owners and staff to efficiently manage daily operations from a mobile device or tablet. With this app, administrators can:
 
-- Add, update, or delete menu items
-- Track customer orders and order statuses
-- Manage food availability
-- Receive real-time order notifications
+- Add, update, or delete menu items  
+- Track customer orders and order statuses  
+- Manage food availability  
+- Receive real-time order notifications  
 
 Built with **Flutter** and **Supabase**, the app is optimized for performance, includes offline capabilities, and uses **Firebase Push Notifications** to alert staff about new or pending orders and offers.
 
@@ -32,67 +32,46 @@ Built with **Flutter** and **Supabase**, the app is optimized for performance, i
 
 ## 📸 App Screenshots
 
-### 🏠 Landing Page
+<h3 align="center">🏠 Login Page – Admin Dashboard – Setting Page</h3>
 
 <p align="center">
-  <img src="./screenshots/Landingpage.jpg" alt="Landing Page 1" width="45%" />
-  <img src="./screenshots/Landingpage1.jpg" alt="Landing Page 2" width="45%" />
+  <img src="./screenshots/Adminloginpage.jpg" alt="Login Page" width="30%" style="display:inline-block;margin:0 1%;" />
+  <img src="./screenshots/Admindashboard.jpg" alt="Admin Dashboard" width="30%" style="display:inline-block;margin:0 1%;" />
+  <img src="./screenshots/Settingpage.jpg" alt="Setting Page" width="30%" style="display:inline-block;margin:0 1%;" />
 </p>
 
 ---
 
-### ➕ Add Menu Item Page
+<h3 align="center">➕ Add Item – Edit Item – Notification Panel</h3>
 
 <p align="center">
-  <img src="./screenshots/AddPage.jpg" alt="Add Page"  width="300" height="600" />
+  <img src="./screenshots/Addpage.jpg" alt="Add Page" width="30%" style="display:inline-block;margin:0 1%;" />
+  <img src="./screenshots/Editpage.jpg" alt="Edit Page" width="30%" style="display:inline-block;margin:0 1%;" />
+  <img src="./screenshots/Notification.jpg" alt="Notification Page" width="30%" style="display:inline-block;margin:0 1%;" />
 </p>
 
 ---
 
-### 📝 Edit Menu Item Page
+<h3 align="center">📝 Orders Page – Completed Page – Users Location</h3>
 
 <p align="center">
-  <img src="./screenshots/Editpage.jpg" alt="Edit Page"  width="300" height="600" />
-</p>
-
----
-
-### 📆 Calendar View – Select Dates & Time
-
-<p align="center">
-  <img src="./screenshots/Calender.jpg" alt="Calendar"  width="300" height="600" />
-</p>
-
----
-
-### 📋 Menu Items on Selected Date
-
-<p align="center">
-  <img src="./screenshots/Calendertask.jpg" alt="Calendar Task 1" width="30%" />
-  <img src="./screenshots/Calendertask2.jpg" alt="Calendar Task 2" width="30%" />
-  <img src="./screenshots/Calendertask3.jpg" alt="Calendar Task 3" width="30%" />
-</p>
-
----
-
-### ✅ Completed Orders Overview
-
-<p align="center">
-  <img src="./screenshots/Completetasks.jpg" alt="Completed Task"  width="300" height="600" />
+  <img src="./screenshots/Orderpage.jpg" alt="Order Page" width="30%" style="display:inline-block;margin:0 1%;" />
+  <img src="./screenshots/Completedpage.jpg" alt="Completed Page" width="30%" style="display:inline-block;margin:0 1%;" />
+  <img src="./screenshots/Map.jpg" alt="Map Page" width="30%" style="display:inline-block;margin:0 1%;" />
 </p>
 
 ---
 
 ## 🚀 Quick Features Summary
 
-- 📋 Add, edit, and delete menu items with images and pricing
-- 🧾 View and manage customer orders in real-time
-- 🔔 Push notifications for new orders and updates
-- 📦 Toggle item availability (e.g., mark items as "out of stock")
-- 🧠 Filter items by category (e.g., Beverages, Main Course, Desserts)
-- 🔍 View menus or orders by selected calendar date
-- 🪄 Smooth navigation and intuitive UX
-- 🎯 Fully responsive UI built with Flutter
+- 📋 Add, edit, and delete menu items with images and pricing  
+- 🧾 View and manage customer orders in real-time  
+- 🔔 Push notifications for new orders and updates  
+- 📦 Toggle item availability (e.g., mark items as "out of stock")  
+- 🧠 Filter items by category (e.g., Beverages, Main Course, Desserts)  
+- 🔍 View menus or orders by selected calendar date  
+- 🪄 Smooth navigation and intuitive UX  
+- 🎯 Fully responsive UI built with Flutter  
 
 ---
 
@@ -125,7 +104,6 @@ flutter pub get
 # 4. Run the app on your device/emulator
 flutter run
 
----
 
 ## 📬 Contact
 
