@@ -1,0 +1,40 @@
+# This file configures the analyzer, which statically analyzes Dart code to
+# check for errors, warnings, and lints.
+#
+# The issues identified by the analyzer are surfaced in the UI of Dart-enabled
+# IDEs (https://dart.dev/tools#ides-and-editors). The analyzer can also be
+# invoked from the command line by running `flutter analyze`.
+
+# The following line activates a set of recommended lints for Flutter apps,
+# packages, and plugins designed to encourage good coding practices.
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  # The lint rules applied to this project can be customized in the
+  # section below to disable rules from the `package:flutter_lints/flutter.yaml`
+  # included above or to enable additional rules. A list of all available lints
+  # and their documentation is published at https://dart.dev/lints.
+  #
+  # Instead of disabling a lint rule for the entire project in the
+  # section below, it can also be suppressed for a single line of code
+  # or a specific dart file by using the `// ignore: name_of_lint` and
+  # `// ignore_for_file: name_of_lint` syntax on the line or in the file
+  # producing the lint.
+  rules:
+    avoid_print: true                # Avoid debug prints in production
+    prefer_const_constructors: true # Use const constructors when possible
+    prefer_final_locals: true       # Prefer final for variables that never change
+    always_declare_return_types: true
+    unnecessary_this: true
+    avoid_unnecessary_containers: true
+    prefer_const_literals_to_create_immutables: true # Immutable collections
+    prefer_typing_uninitialized_variables: true      # Force typing vars
+    no_duplicate_case_values: true                    # No repeated switch cases
+    prefer_is_empty: true                             # Use isEmpty instead of length==0
+    prefer_const_declarations: true                   # Prefer const for variables if possible
+    avoid_annotating_with_dynamic: true               # Avoid using dynamic type
+    avoid_double_and_int_checks: true                  # Use num instead of double/int checks
+    avoid_shadowing_type_parameters: true              # Avoid name clashes
+    avoid_returning_null: true                          # Avoid returning null if possible
+    prefer_if_null_operators: true                      # Use ?? operator
+    use_rethrow_when_possible: true                     # Use rethrow, not throw inside catch
