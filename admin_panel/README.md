@@ -109,8 +109,7 @@ flutter run
 
 For feedback or questions, reach out via:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/swen-shrestha-a89041304/)
-- 📧 [Gmail](shresthaswen80@gmail.com)
+- 💼 LinkedIn: [Swen Shrestha](https://www.linkedin.com/in/swen-shrestha-a89041304/)
 
 - 📧 Email: [shresthaswen80@gmail.com](mailto:shresthaswen80@gmail.com)
 
