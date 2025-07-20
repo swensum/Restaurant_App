@@ -103,18 +103,16 @@ flutter pub get
 
 # 4. Run the app on your device/emulator
 flutter run
-
-
+```
+---
 ## 📬 Contact
 
 For feedback or questions, reach out via:
 
-- 💼 LinkedIn: [Swen Shrestha](https://www.linkedin.com/in/swen-shrestha-a89041304/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/swen-shrestha-a89041304/)
+- 📧 [Gmail](shresthaswen80@gmail.com)
 
 - 📧 Email: [shresthaswen80@gmail.com](mailto:shresthaswen80@gmail.com)
-
-
----
 
 ## ⭐️ Show Your Support
 
